@@ -1,5 +1,7 @@
 body{
   background-image: url("https://wallup.net/wp-content/uploads/2016/01/89118-space_station-space-digital_art-artwork-futuristic-dark.jpg");
+   opacity: 0.8;
+   background-repeat: no-repeat;
     /*background-color: #FFFAFA;*/
   font-family: Montserrat, sans-serif;
 }
