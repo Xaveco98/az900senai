@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <tytle>XMC - MINHA PÁGINA INICIAL</title>
+  <title>XMC - MINHA PÁGINA INICIAL</title>
 </head>
 <body>
   <h1 style="color: red">Minha página inicial</h1>
