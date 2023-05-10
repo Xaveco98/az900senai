@@ -12,10 +12,10 @@
   <p>A sua vez está chegando, não tem como escapar da Horda Espacial!<br>
   Gosto também de assistir fimlmes e jogar videogame, tocar violão e batalhas de rimas improvisadas.</p>
   
-  <?php class="horario"
+  <p class="horario"> <?php
   date_default_timezone_set('America/Sao_Paulo');
   echo date('h:i:s A');
-  ?><br>
+    ?></p>
   <a href="#" class="button">Descubra onde está a Horda Espacial!</a>
 </body>
 </html>
