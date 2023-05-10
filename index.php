@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<meta charset="UTF-8">
 <head>
   <title>XMC - MINHA PÁGINA INICIAL</title>
   <link rel="stylesheet" href="custom.css">
