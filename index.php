@@ -5,12 +5,12 @@
   <link rel="stylesheet" href="custom.css">
 </head>
 <body>
-  <h1>Minha página inicial</h1>
-  <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br>
-    Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,<br>
-    when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-  <p>Sou um aluo iniciante em progrmação e cloud computing!<br>
+  <h1>A horda espacial está chegando</h1>
+  <p>Em um universo cheio de ouro espacial, a Horda Espacial não deixa nenhum sobrevivente quando chega!<br>
+    Com mais de 1500 naves de combate espacial, eles dominam planetas, destroem galáxias,<br>
+    amedrontam o oponente seja qual for, e seguem conquistando o vasto espaço cideral.</p>
+  <p>A sua vez está chegando, não tem como escapar da Horda Espacial!<br>
   Gosto também de assistir fimlmes e jogar videogame, tocar violão e batalhas de rimas improvisadas.</p>
-  <a href="#" class="button">Entre em contato</a>
+  <a href="#" class="button">Descubra onde está a Horda Espacial!</a>
 </body>
 </html>
