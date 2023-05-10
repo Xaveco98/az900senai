@@ -2,6 +2,7 @@
 <meta charset="UTF-8">
 <head>
   <tytle>XMC - MINHA PÁGINA INICIAL</tytle>
+  <link rel="stylesheet" href="custom.css">
 </head>
 <body>
   <h1 style="color: red">Minha página inicial</h1>
