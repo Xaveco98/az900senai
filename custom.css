@@ -7,3 +7,31 @@ h1{
   color: 	#B22222;
   text-align: center;
 }
+
+p{
+  font-size: 18px;
+  margin-bottom: 20px;
+  text-align: justify;
+  padding: 0 20px;
+  line-height: 1.5;
+}
+
+.button{
+  
+  background-color: 	#B22222;
+  border: none;
+  color: #FFFFFF;
+  cursor: pointer;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+.button:hover{
+  background-color: 	#B22898;
+  color: #FFF555;
+}
